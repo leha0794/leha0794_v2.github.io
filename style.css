@@ -177,7 +177,7 @@ h2, h3{
 @media (max-width: 720px){
   .Text {font-size: 32px;}
     body{
-    background-size: 100%;
+    background-size: contain;
   }
 }
 
