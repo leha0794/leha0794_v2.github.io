@@ -177,7 +177,7 @@ h2, h3{
 @media (max-device-width:768px){
   .Text {font-size: 32px;}
     body{
-    background-size: contain;
+/*     background-size: contain; */
   }
 }
 
